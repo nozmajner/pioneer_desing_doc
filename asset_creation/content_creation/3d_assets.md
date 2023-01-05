@@ -15,7 +15,7 @@ This page provide information about the creation of 3D assets for Pioneer, such 
 
 Detailed description of the 3D asset workflow, be it a spaceship, a building or a spaceport.
 
-[Workflow and tools overview]()
+[Workflow and tools overview](./3d_workflow.md)
 
 [Model system overview](./model_system.md)
 
